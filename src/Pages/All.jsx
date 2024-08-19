@@ -37,11 +37,9 @@ const All = () => {
 
         },
         {
-<<<<<<< HEAD
-            "crs_img": "",
-=======
+
             "crs_img": "https://atomizedobjects.com/static/6a2b8b49f86e82d9eeff926636173f1a/5d2fb/how-to-render-an-array-of-objects-with-map-in-react-hero.jpg",
->>>>>>> ee8cb39948ea6b70177d0603526267bb8781ff0a
+
             "crs_name" : "How to Render an Array of Objects in React? [in 3 easy steps]",
             "crs_author": "Tarun singh",
             "crs_date" : "Ap 06, 2024",
