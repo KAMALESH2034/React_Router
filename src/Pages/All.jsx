@@ -37,7 +37,7 @@ const All = () => {
 
         },
         {
-            "crs_img": "https://www.guvi.in/blog/wp-content/uploads/2022/12/Render-array-of-objects-in-ReactJs.png",
+            "crs_img": "",
             "crs_name" : "How to Render an Array of Objects in React? [in 3 easy steps]",
             "crs_author": "Tarun singh",
             "crs_date" : "Ap 06, 2024",
