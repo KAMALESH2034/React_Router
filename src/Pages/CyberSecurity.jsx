@@ -5,7 +5,7 @@ const CyberSecurity = () => {
 
     const CScourse =[
         {
-            "crs_img": "https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-2048x1152.png",
+            "crs_img": "https://images.shiksha.com/mediadata/ugcDocuments/images/wordpressImages/2021_11_Difference-between-cyber-security-and-ethical-hacking.jpg",
             "crs_name" : "Cybersecurity Vs Ethical Hacking: Top 10 Differences",
             "crs_author": "Tushar Vinocha",
             "crs_date" : "Apr 16, 2024",
@@ -13,7 +13,7 @@ const CyberSecurity = () => {
 
         },
         {
-            "crs_img": "https://www.guvi.in/blog/wp-content/uploads/2022/12/cybersecuity-.gif",
+            "crs_img": "https://sprinto.com/wp-content/uploads/2023/05/01.jpg",
             "crs_name" : "What is Cybersecurity? Importance and its uses & the growing challenges in 2023!",
             "crs_author": "Tushar Vinocha",
             "crs_date" : "Oct 04, 2023",
@@ -21,7 +21,7 @@ const CyberSecurity = () => {
 
         },
         {
-            "crs_img": "https://www.guvi.in/blog/wp-content/uploads/2022/11/Teal-Illustration-Digital-Business-Blog-Banner-1-2048x1152.png",
+            "crs_img": "https://cdn.educba.com/academy/wp-content/uploads/2023/04/Types-of-CyberSecurity.jpg",
             "crs_name" : "8 Different Types of Cybersecurity and Threats Involved",
             "crs_author": "Tushar Vinocha",
             "crs_date" : "Sep 08, 2023",
@@ -29,7 +29,7 @@ const CyberSecurity = () => {
 
         },
         {
-            "crs_img": "https://www.guvi.in/blog/wp-content/uploads/2022/06/8bfd01c18be1b5059bc0d7770d9dabf1.gif",
+            "crs_img": "https://cybersecuritymasters.in/wp-content/uploads/2023/04/IsCodingRequiredForCyberSecurity-1.png",
             "crs_name" : "Is coding required for cybersecurity? If yes, how crucial is coding for cybersecurity?",
             "crs_author": "Tushar Vinocha",
             "crs_date" : "Mar 25, 2024",
