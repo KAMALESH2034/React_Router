@@ -13,7 +13,7 @@ const All = () => {
 
         },
         {
-            "crs_img": "https://www.guvi.in/blog/wp-content/uploads/2022/12/Fetch-Data-using-API-in-React.Js.png",
+            "crs_img": "https://i.ytimg.com/vi/CrtmSbz6k5E/maxresdefault.jpg",
             "crs_name" : "Use ReactJS to Fetch and Display Data from API – 5 Simple Steps",
             "crs_author": "Tarun Singh",
             "crs_date" : "Jul 23, 2024",
@@ -21,7 +21,7 @@ const All = () => {
 
         },
         {
-            "crs_img": "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*T5NHSItuJ4Gp2vlYTzAT_g.png",
+            "crs_img": "https://media.licdn.com/dms/image/sync/D4D27AQGb3UpKNu7rvQ/articleshare-shrink_800/0/1721163672398?e=2147483647&v=beta&t=FBydhEiM-HQT7LYAVMfAxBMD7Nm0jrR3gWEPdbb-OWI",
             "crs_name" : "10 Hardest and Easiest Programming Languages in 2024",
             "crs_author": " Saakshi Priyadarshini",
             "crs_date" : "Jul 23, 2024",
@@ -29,7 +29,7 @@ const All = () => {
 
         },
         {
-            "crs_img": "https://media.licdn.com/dms/image/sync/D4D27AQGb3UpKNu7rvQ/articleshare-shrink_800/0/1721163672398?e=2147483647&v=beta&t=FBydhEiM-HQT7LYAVMfAxBMD7Nm0jrR3gWEPdbb-OWI",
+            "crs_img": "https://www.interviewbit.com/blog/wp-content/uploads/2021/12/JavaScript-Projects.png",
             "crs_name" : "30 Best JavaScript Project Ideas For You [3 Bonus Portfolio Projects]",
             "crs_author": "Saakshi Priyadarshini",
             "crs_date" : "Jul 23, 2024",
