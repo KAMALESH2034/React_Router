@@ -1,0 +1,15 @@
+.navItems:hover{
+    background-color: rgb(235, 232, 232);
+    cursor: pointer;
+}
+.navbar{
+    background-color: rgb(89, 237, 89);
+    font-family: Candara;
+    font-weight: 570;
+    border-bottom: 4px solid #323042;
+}
+.card:hover{
+ 
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
