@@ -13,7 +13,7 @@ const DataScience = () => {
 
         },
         {
-            "crs_img": "https://www.guvi.in/blog/wp-content/uploads/2022/06/5.-data-science-2048x1072.png",
+            "crs_img": "https://www.skillvertex.com/blog/wp-content/uploads/2023/10/Can-Commerce-Student-Do-Data-Analytics.jpg",
             "crs_name" : "Can A Commerce Student Do Data Science?",
             "crs_author": " Saakshi Priyadarshini",
             "crs_date" : "Apr 16, 2024",
@@ -21,7 +21,7 @@ const DataScience = () => {
 
         },
         {
-            "crs_img": "https://www.guvi.in/blog/wp-content/uploads/2023/07/image-4.png",
+            "crs_img": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20201204214338/What-are-the-Roles-and-Responsibilities-of-a-Data-Scientist.png",
             "crs_name" : "Roles and Responsibilities of a Data Scientist",
             "crs_author": "  Jaishree Tomar",
             "crs_date" : "Apr 16, 2024",
@@ -29,7 +29,7 @@ const DataScience = () => {
 
         },
         {
-            "crs_img": "https://www.guvi.in/blog/wp-content/uploads/2023/08/How-Long-Would-It-Take-to-Learn-Data-Science-2048x1072.png",
+            "crs_img": "https://i0.wp.com/www.institutedata.com/wp-content/uploads/2023/10/How-long-does-it-take-to-learn-data-science.png?w=940&ssl=1",
             "crs_name" : "How Long Would It Take to Learn Data Science?",
             "crs_author": " Meghana D",
             "crs_date" : "Apr 16, 2024",
@@ -37,7 +37,7 @@ const DataScience = () => {
 
         },
         {
-            "crs_img": "https://www.guvi.in/blog/wp-content/uploads/2022/02/2.-AI-vs-ML-vs-Data-Science_-2048x1072.png",
+            "crs_img": "https://theninehertz.com/wp-content/uploads/2023/02/Artificial_Intelligence_vs_Machine_Learning_vs_Data_Science.png",
             "crs_name" : "AI vs ML vs Data Science: What Should You Learn In 2024?",
             "crs_author": "Archana",
             "crs_date" : "Aug 16, 2024",
